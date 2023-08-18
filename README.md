@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/nikanoza/nikanoza/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 ## 🌍 Connect with Me
