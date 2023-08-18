@@ -34,7 +34,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiorgiIlariani&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiorgiIlariani&show_icons=true)<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giorgiilariani&show_icons=true&theme=radical" alt="Giorgi Ilariani's GitHub Stats" />
+</p>
 
 
 ## 🌍 Connect with Me
