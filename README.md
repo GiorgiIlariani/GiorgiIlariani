@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giorgi Ilariani</h1>
 <h3 align="center">Front-end Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [GiorgiIlariani](https://github.com/GiorgiIlariani?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/GiorgiIlariani?tab=repositories)
 
-- 📫 How to reach me [GiorgiIlariani](https://www.linkedin.com/in/giorgi-ilariani-69869a260/)
+- 📫 How to reach me [linkedIn](https://www.linkedin.com/in/giorgi-ilariani-69869a260/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
+![Shadcn](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fshadcn&psig=AOvVaw29KsXu3NNdzThXn2icwE6k&ust=1692458227838000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKC0sa3A5oADFQAAAAAdAAAAABAE)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
