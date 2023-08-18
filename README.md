@@ -30,7 +30,7 @@
 
 ## 🌍 Connect with Me
 
-[Portfolio](https://portfolio-sigma-rosy-36.vercel.app/)
+[Portfolio](https://portfolio-sigma-rosy-36.vercel.app/) | 
 [LinkedIn](https://www.linkedin.com/in/giorgi-ilariani-69869a260/)
 
 
