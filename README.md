@@ -9,24 +9,16 @@
   <a href="https://www.linkedin.com/in/giorgi-ilariani-69869a260/">How to reach me on LinkedIn</a>
 </p>
 
-## 🌍 Connect with Me
-
 <h3 align="left">Connect with me:</h3>
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/giorgi-ilariani-69869a260/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.sv" alt="giorgiilariani" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.facebook.com/gio.ilariani" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/giorgi-ilariani-69869a260/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiilariani" height="30" width="40" /> 
+  </a>
+    <a href="https://www.facebook.com/gio.ilariani" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.sv
+" alt="giorgiilariani" height="30" width="40" /> 
+  </a>
+</p>
 
 ## 🚀 Skills
 
@@ -50,6 +42,4 @@
   <a href="https://portfolio-sigma-rosy-36.vercel.app/">Portfolio</a> |
   <a href="https://www.linkedin.com/in/giorgi-ilariani-69869a260/">LinkedIn</a>
 </p>
-
-
 
