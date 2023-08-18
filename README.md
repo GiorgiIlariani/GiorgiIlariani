@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikanoza" alt="nikanoza" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GiorgiIlariani](https://github.com/Giorgiilariani)
+- 👨‍💻 All of my projects are available at [GiorgiIlariani](https://github.com/GiorgiIlariani?tab=repositories)
 
 - 📫 How to reach me [GiorgiIlariani](https://www.linkedin.com/in/giorgi-ilariani-69869a260/)
 
@@ -28,7 +28,9 @@
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
 
-![snake gif](https://github.com/nikanoza/nikanoza/blob/output/github-contribution-grid-snake.gif)
+## 📊 GitHub Stats
+
+![Giorgi Ilariani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgiilariani&show_icons=true&theme=radical)
 
 <p align="center">   
   <a href="https://github.com/GiorgiIlariani"> 
