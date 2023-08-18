@@ -34,7 +34,8 @@
 
 ## 📊 GitHub Stats
 
-![snake gif](https://github.com/nikanoza/nikanoza/blob/output/github-contribution-grid-snake.gif)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiorgiIlariani&show_icons=true)
+
 
 ## 🌍 Connect with Me
 
