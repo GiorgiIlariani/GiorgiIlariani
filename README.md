@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgiilariani&show_icons=true&theme=radical" alt="Giorgi Ilariani's GitHub Stats" />
+  ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
 </p>
 
 ## 🌍 Connect with Me
