@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nika Nozadze</h1>
-<h3 align="center">Software Engineer from Georgia</h3>
+<h1 align="center">Hi 👋, I'm Giorgi Ilariani</h1>
+<h3 align="center">Front-end Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikanozali&label=Profile%20views&color=3f5427&style=plastic" alt="nikanoza" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nika-nozadze-67b62a210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikianoza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/giorgi-ilariani-69869a260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiilariani" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,8 +22,8 @@
 ![snake gif](https://github.com/nikanoza/nikanoza/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">   
-  <a href="https://github.com/nikanoza"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikanoza&theme=radical" alt="Niks Nozadze's GitHub Contribution"/>     </a>
+  <a href="https://github.com/GiorgiIlariani"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikanoza&theme=radical" alt="giorgi ilariani's GitHub Contribution"/>     </a>
 </p>
 
 <p align="center">   
