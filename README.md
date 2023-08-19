@@ -55,13 +55,13 @@
   
   <div style="display: flex;">
   <a href="https://cv-creator-xi.vercel.app/">
-    <img src="/Cv_Creator.png" alt="cv-creator" width="300px" height="200px" />
+    <img src="/Cv_Creator.png" alt="cv-creator" width="300px" height="150px" />
   </a>
    <a href="https://carhub-alpha.vercel.app/">
-    <img src="/carhub.png" alt="carhub" width="300px" height="200px" />
+    <img src="/carhub.png" alt="carhub" width="300px" height="150px" />
   </a>
    <a href="https://mymarket-iota.vercel.app/">
-    <img src="/mymarket.png" alt="mymarket" width="350px" height="200px" />
+    <img src="/mymarket.png" alt="mymarket" width="300px" height="150px" />
   </a>
    <a href="https://youtube-clone-psi-sandy.vercel.app/">
     <img src="/youtube_clone.png" alt="youtube clone" width="350px" height="200px" />
