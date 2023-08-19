@@ -52,22 +52,6 @@
 <br/><br/>
 
 📂 Project Showcase
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <p align="left">
-    <a href="https://cv-creator-xi.vercel.app/">
-      <img src="/Cv_Creator.png" alt="cv-creator" width="350px" height="200px" />
-    </a>
-  </p>
-  
-  <br/><br/> <!-- Add these lines to create more space -->
-  
-  <p align="left">
-    <a href="https://carhub-alpha.vercel.app/">
-      <img src="/carhub.png" alt="carhub" width="350px" height="200px" />
-    </a>
-  </p>
-  
-  <br/><br/> <!-- Add these lines to create more space -->
   
  <p align="left>
   <a href="https://cv-creator-xi.vercel.app/">
