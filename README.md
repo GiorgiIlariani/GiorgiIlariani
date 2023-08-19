@@ -48,13 +48,22 @@
 
 <p align="left>
   <a href="">
-    <img src="" alt="" />
+    <img src="/Cv_Creator.png" alt="cv-creator" />
   </a>
    <a href="">
-    <img src="" alt="" />
+    <img src="/carhub.png" alt="carhub" />
   </a>
    <a href="">
-    <img src="" alt="" />
+    <img src="/mymarket.png" alt="mymarket" />
+  </a>
+   <a href="">
+    <img src="/youtube_clone.png" alt="youtube clone" />
+  </a>
+   <a href="">
+    <img src="/Covid_questionary.png" alt="covid questionary" />
+  </a>
+   <a href="">
+    <img src="/gym_exercises.png" alt="gym exercises" />
   </a>
 </p>
 
