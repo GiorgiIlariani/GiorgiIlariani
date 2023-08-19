@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## 🚀 Skills
+## 📚 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" /> &nbsp;
