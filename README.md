@@ -55,7 +55,7 @@
   
   <div style="display: flex;">
   <a href="https://cv-creator-xi.vercel.app/">
-    <img src="/Cv_Creator.png" alt="cv-creator" width="310px" height="180px" />
+    <img src="/Cv_Creator.png" alt="cv-creator" width="280px" height="170px" />
   </a>
    <a href="https://carhub-alpha.vercel.app/">
     <img src="/carhub.png" alt="carhub" width="280px" height="170px" />
