@@ -14,8 +14,7 @@
   <a href="https://www.linkedin.com/in/giorgi-ilariani-69869a260/">How to reach me on LinkedIn</a>
 </p>
 
-
-
+<br/><br/>
 
 <h3 align="left">🌍 Connect with Me</h3>
 <p align="left">
@@ -24,9 +23,7 @@
   </a>
 </p>
 
-
-
-
+<br/><br/>
 
 ## 📚 Skills
 
@@ -44,15 +41,11 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-
-
-
+<br/><br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiorgiIlariani&show_icons=true&theme=radical)
 
-
-
-
+<br/><br/>
 
 🚀 My Portfolio
 
