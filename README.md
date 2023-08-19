@@ -41,6 +41,6 @@
 ## My Portfolio
 
 <a href="https://portfolio-sigma-rosy-36.vercel.app/">
-  <img src=""  alt="personal-portfolio" />
+  <img src="/personal-portfolio.png"  alt="personal-portfolio" />
 </a>
 
