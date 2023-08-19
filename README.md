@@ -38,7 +38,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiorgiIlariani&show_icons=true&theme=radical)
 
-## My Portfolio
+🚀 My Portfolio
 
 <a href="https://portfolio-sigma-rosy-36.vercel.app/">
   <img src="/personal-portfolio.png"  alt="personal-portfolio" width="350px" height="200px" />
