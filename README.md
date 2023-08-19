@@ -60,9 +60,7 @@
   <img src="/personal-portfolio.png"  alt="personal-portfolio" width="350px" height="200px" />
 </a>
 
-
-
-
+<br/><br/>
 
 📂 Project Showcase
 
