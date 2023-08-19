@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiorgiIlariani)
+
+
+
 ## 🌍 Connect with Me
 
 <p align="left">
