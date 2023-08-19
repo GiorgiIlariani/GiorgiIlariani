@@ -104,3 +104,18 @@
   </p>
 </div>
 
+<br/><br/> <!-- Add these lines to create more space -->
+
+<p align="center">   
+  <a href="https://github.com/nikanoza"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiIlariani&theme=radical" alt="Giorgi ilariani's GitHub Contribution"/>     </a>
+</p>
+
+<p align="center">   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiIlariani" alt="GiorgiIlariani's GitHub Contribution"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgiIlariani&" alt="Giorgi ilariani" />
+</p>
+
