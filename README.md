@@ -53,11 +53,10 @@
 
 📂 Project Showcase
   
- <p align="left">
+  <div style="display: flex;">
   <a href="https://cv-creator-xi.vercel.app/">
     <img src="/Cv_Creator.png" alt="cv-creator" width="350px" height="200px" />
   </a>
-   <br/><br/>
    <a href="https://carhub-alpha.vercel.app/">
     <img src="/carhub.png" alt="carhub" width="350px" height="200px" />
   </a>
@@ -73,7 +72,7 @@
    <a href="https://gym-exercises-self.vercel.app/">
     <img src="/gym_exercises.png" alt="gym exercises" width="350px" height="200px" />
   </a>
-</p>
+</div>
 
 <br/><br/> <!-- Add these lines to create more space -->
 
