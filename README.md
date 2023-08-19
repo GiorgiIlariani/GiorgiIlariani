@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi Ilariani</h1>
 <h3 align="center">Front-end Web Developer</h3>
 
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=GiorgiIariani&label=Profile%20views&color=3f5427&style=plastic" alt="Giorgi ilariani" /> 
 </p>
@@ -13,12 +14,19 @@
   <a href="https://www.linkedin.com/in/giorgi-ilariani-69869a260/">How to reach me on LinkedIn</a>
 </p>
 
+
+
+
 <h3 align="left">🌍 Connect with Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/giorgi-ilariani-69869a260/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiilariani" height="30" width="40" /> 
   </a>
 </p>
+
+
+
+
 
 ## 📚 Skills
 
@@ -36,13 +44,25 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+
+
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiorgiIlariani&show_icons=true&theme=radical)
+
+
+
+
 
 🚀 My Portfolio
 
 <a href="https://portfolio-sigma-rosy-36.vercel.app/">
   <img src="/personal-portfolio.png"  alt="personal-portfolio" width="350px" height="200px" />
 </a>
+
+
+
+
 
 📂 Project Showcase
 
