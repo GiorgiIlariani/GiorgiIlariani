@@ -63,14 +63,15 @@
    <a href="https://mymarket-iota.vercel.app/">
     <img src="/mymarket.png" alt="mymarket" width="320px" height="180px" />
   </a>
+    <br></br>
    <a href="https://youtube-clone-psi-sandy.vercel.app/">
-    <img src="/youtube_clone.png" alt="youtube clone" width="350px" height="200px" />
+    <img src="/youtube_clone.png" alt="youtube clone" width="320px" height="180px" />
   </a>
    <a href="https://covid-questionary.vercel.app/">
-    <img src="/Covid_questionary.png" alt="covid questionary" width="350px" height="200px" />
+    <img src="/Covid_questionary.png" alt="covid questionary" width="320px" height="180px" />
   </a>
    <a href="https://gym-exercises-self.vercel.app/">
-    <img src="/gym_exercises.png" alt="gym exercises" width="350px" height="200px" />
+    <img src="/gym_exercises.png" alt="gym exercises" width="320px" height="180px" />
   </a>
 </div>
 
