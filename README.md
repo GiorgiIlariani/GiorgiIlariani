@@ -55,23 +55,23 @@
   
   <div style="display: flex;">
   <a href="https://cv-creator-xi.vercel.app/">
-    <img src="/Cv_Creator.png" alt="cv-creator" width="280px" height="170px" />
+    <img src="/Cv_Creator.png" alt="cv-creator" width="250px" height="170px" />
   </a>
    <a href="https://carhub-alpha.vercel.app/">
-    <img src="/carhub.png" alt="carhub" width="280px" height="170px" />
+    <img src="/carhub.png" alt="carhub" width="250px" height="170px" />
   </a>
    <a href="https://mymarket-iota.vercel.app/">
-    <img src="/mymarket.png" alt="mymarket" width="280px" height="170px" />
+    <img src="/mymarket.png" alt="mymarket" width="250px" height="170px" />
   </a>
     <br></br>
    <a href="https://youtube-clone-psi-sandy.vercel.app/">
-    <img src="/youtube_clone.png" alt="youtube clone" width="280px" height="170px" />
+    <img src="/youtube_clone.png" alt="youtube clone" width="250px" height="170px" />
   </a>
    <a href="https://covid-questionary.vercel.app/">
-    <img src="/Covid_questionary.png" alt="covid questionary" width="280px" height="170px" />
+    <img src="/Covid_questionary.png" alt="covid questionary" width="250px" height="170px" />
   </a>
    <a href="https://gym-exercises-self.vercel.app/">
-    <img src="/gym_exercises.png" alt="gym exercises" width="280px" height="170px" />
+    <img src="/gym_exercises.png" alt="gym exercises" width="250px" height="170px" />
   </a>
 </div>
 
