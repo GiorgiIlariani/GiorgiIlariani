@@ -56,51 +56,51 @@
 <br/><br/>
 
 📂 Project Showcase
-
-<p align="left">
-  <a href="https://cv-creator-xi.vercel.app/">
-    <img src="/Cv_Creator.png" alt="cv-creator" width="350px" height="200px" />
-  </a>
-</p>
-
-<br/><br/> <!-- Add these lines to create more space -->
-
-<p align="left">
-  <a href="https://carhub-alpha.vercel.app/">
-    <img src="/carhub.png" alt="carhub" width="350px" height="200px" />
-  </a>
-</p>
-
-<br/><br/> <!-- Add these lines to create more space -->
-
-<p align="left">
-  <a href="https://mymarket-iota.vercel.app/">
-    <img src="/mymarket.png" alt="mymarket" width="350px" height="200px" />
-  </a>
-</p>
-
-<br/><br/> <!-- Add these lines to create more space -->
-
-<p align="left">
-  <a href="https://youtube-clone-psi-sandy.vercel.app/">
-    <img src="/youtube_clone.png" alt="youtube clone" width="350px" height="200px" />
-  </a>
-</p>
-
-<br/><br/> <!-- Add these lines to create more space -->
-
-<p align="left">
-  <a href="https://covid-questionary.vercel.app/">
-    <img src="/Covid_questionary.png" alt="covid questionary" width="350px" height="200px" />
-  </a>
-</p>
-
-<br/><br/> <!-- Add these lines to create more space -->
-
-<p align="left">
-  <a href="https://gym-exercises-self.vercel.app/">
-    <img src="/gym_exercises.png" alt="gym exercises" width="350px" height="200px" />
-  </a>
-</p>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <p align="left">
+    <a href="https://cv-creator-xi.vercel.app/">
+      <img src="/Cv_Creator.png" alt="cv-creator" width="350px" height="200px" />
+    </a>
+  </p>
+  
+  <br/><br/> <!-- Add these lines to create more space -->
+  
+  <p align="left">
+    <a href="https://carhub-alpha.vercel.app/">
+      <img src="/carhub.png" alt="carhub" width="350px" height="200px" />
+    </a>
+  </p>
+  
+  <br/><br/> <!-- Add these lines to create more space -->
+  
+  <p align="left">
+    <a href="https://mymarket-iota.vercel.app/">
+      <img src="/mymarket.png" alt="mymarket" width="350px" height="200px" />
+    </a>
+  </p>
+  
+  <br/><br/> <!-- Add these lines to create more space -->
+  
+  <p align="left">
+    <a href="https://youtube-clone-psi-sandy.vercel.app/">
+      <img src="/youtube_clone.png" alt="youtube clone" width="350px" height="200px" />
+    </a>
+  </p>
+  
+  <br/><br/> <!-- Add these lines to create more space -->
+  
+  <p align="left">
+    <a href="https://covid-questionary.vercel.app/">
+      <img src="/Covid_questionary.png" alt="covid questionary" width="350px" height="200px" />
+    </a>
+  </p>
+  
+  <br/><br/> <!-- Add these lines to create more space -->
+  
+  <p align="left">
+    <a href="https://gym-exercises-self.vercel.app/">
+      <img src="/gym_exercises.png" alt="gym exercises" width="350px" height="200px" />
+    </a>
+  </p>
+</div>
 
