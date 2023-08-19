@@ -5,13 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=GiorgiIariani&label=Profile%20views&color=3f5427&style=plastic" alt="Giorgi ilariani" /> 
 </p>
 
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GiorgiIlariani" alt="Giorgi ilariani" />
-  </a> 
-</p>
-
 <p align="center">
   <a href="https://github.com/GiorgiIlariani?tab=repositories">All of my projects are available at GitHub</a>
 </p>
