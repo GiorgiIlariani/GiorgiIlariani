@@ -53,7 +53,7 @@
 
 📂 Project Showcase
   
-  <div style="display: flex;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <a href="https://300-aragvelii.vercel.app/">
       <img src="/aragveli.png" alt="aragveli logo" width="270px" height="160px" />
     </a>
