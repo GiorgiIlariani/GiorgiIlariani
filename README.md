@@ -53,8 +53,8 @@
 
 📂 Project Showcase
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <a href="https://300-aragvelii.vercel.app/" style="margin-bottom: 20px;">
+  <div style="display: flex;">
+    <a href="https://300-aragvelii.vercel.app/">
       <img src="/aragveli.png" alt="aragveli logo" width="270px" height="160px" />
     </a>
     <a href="https://threads-kappa-three.vercel.app/">
@@ -76,7 +76,6 @@
      <a href="https://covid-questionary.vercel.app/">
       <img src="/Covid_questionary.png" alt="covid questionary" width="270px" height="160px" />
     </a>
-     <br></br>
      <a href="https://gym-exercises-self.vercel.app/">
       <img src="/gym_exercises.png" alt="gym exercises" width="270px" height="160px" />
     </a>
