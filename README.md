@@ -54,20 +54,33 @@
 📂 Project Showcase
   
   <div style="display: flex;">
-   <a href="https://carhub-alpha.vercel.app/">
-    <img src="/carhub.png" alt="carhub" width="270px" height="160px" />
-  </a>
-   <a href="https://youtube-clone-psi-sandy.vercel.app/">
-    <img src="/youtube_clone.png" alt="youtube clone" width="270px" height="160px" />
-  </a>
-   <a href="https://covid-questionary.vercel.app/">
-    <img src="/Covid_questionary.png" alt="covid questionary" width="270px" height="160px" />
-  </a>
-   <br></br>
-   <a href="https://gym-exercises-self.vercel.app/">
-    <img src="/gym_exercises.png" alt="gym exercises" width="270px" height="160px" />
-  </a>
-</div>
+    <a href="https://300-aragvelii.vercel.app/">
+      <img src="/aragveli.png" alt="aragveli logo" width="270px" height="160px" />
+    </a>
+    <a href="https://threads-kappa-three.vercel.app/">
+      <img src="/threads.png" alt="threads" width="270px" height="160px" />
+    </a>
+    <a href="https://pricewise-alpha-eight.vercel.app/">
+      <img src="/pricewise.png" alt="pricewise" width="270px" height="160px" />
+    </a>
+    <br></br>
+    <a href="https://blogs-five-sigma.vercel.app/">
+      <img src="/blogs.png" alt="blogs" width="270px" height="160px" />
+    </a>
+     <a href="https://carhub-alpha.vercel.app/">
+      <img src="/carhub.png" alt="carhub" width="270px" height="160px" />
+    </a>
+     <a href="https://youtube-clone-psi-sandy.vercel.app/">
+      <img src="/youtube_clone.png" alt="youtube clone" width="270px" height="160px" />
+    </a>
+     <a href="https://covid-questionary.vercel.app/">
+      <img src="/Covid_questionary.png" alt="covid questionary" width="270px" height="160px" />
+    </a>
+     <br></br>
+     <a href="https://gym-exercises-self.vercel.app/">
+      <img src="/gym_exercises.png" alt="gym exercises" width="270px" height="160px" />
+    </a>
+  </div>
 
 <br/><br/> <!-- Add these lines to create more space -->
 
