@@ -65,19 +65,19 @@
     </a>
     <br></br>
     <a href="https://blogs-five-sigma.vercel.app/">
-      <img src="/blogs.png" alt="blogs" width="260px" height="155px" />
+      <img src="/blogs.png" alt="blogs" width="250px" height="155px" />
     </a>
      <a href="https://carhub-alpha.vercel.app/">
-      <img src="/carhub.png" alt="carhub" width="260px" height="155px" />
+      <img src="/carhub.png" alt="carhub" width="250px" height="155px" />
     </a>
      <a href="https://youtube-clone-psi-sandy.vercel.app/">
-      <img src="/youtube_clone.png" alt="youtube clone" width="260px" height="155px" />
+      <img src="/youtube_clone.png" alt="youtube clone" width="250px" height="155px" />
     </a>
      <a href="https://covid-questionary.vercel.app/">
-      <img src="/Covid_questionary.png" alt="covid questionary" width="260px" height="155px" />
+      <img src="/Covid_questionary.png" alt="covid questionary" width="250px" height="155px" />
     </a>
      <a href="https://gym-exercises-self.vercel.app/">
-      <img src="/gym_exercises.png" alt="gym exercises" width="260px" height="155px" />
+      <img src="/gym_exercises.png" alt="gym exercises" width="250px" height="155px" />
     </a>
   </div>
 
