@@ -55,13 +55,13 @@
   
   <div style="display: flex;">
     <a href="https://300-aragvelii.vercel.app/">
-      <img src="/aragveli.png" alt="aragveli logo" width="260px" height="155px" />
+      <img src="/aragveli.png" alt="aragveli logo" width="250px" height="155px" />
     </a>
     <a href="https://threads-kappa-three.vercel.app/">
-      <img src="/threads.png" alt="threads" width="260px" height="155px" />
+      <img src="/threads.png" alt="threads" width="250px" height="155px" />
     </a>
     <a href="https://pricewise-alpha-eight.vercel.app/">
-      <img src="/pricewise.png" alt="pricewise" width="260px" height="155px" />
+      <img src="/pricewise.png" alt="pricewise" width="250px" height="155px" />
     </a>
     <br></br>
     <a href="https://blogs-five-sigma.vercel.app/">
