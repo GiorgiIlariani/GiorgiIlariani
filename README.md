@@ -71,7 +71,7 @@
       <img src="/carhub.png" alt="carhub" width="260px" height="155px" />
     </a>
      <a href="https://youtube-clone-psi-sandy.vercel.app/">
-      <img src="/youtube_clone.png" alt="youtube clone" width="270px" height="155px" />
+      <img src="/youtube_clone.png" alt="youtube clone" width="260px" height="155px" />
     </a>
      <a href="https://covid-questionary.vercel.app/">
       <img src="/Covid_questionary.png" alt="covid questionary" width="260px" height="155px" />
