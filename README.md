@@ -54,7 +54,7 @@
 📂 Project Showcase
   
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <a href="https://300-aragvelii.vercel.app/">
+    <a href="https://300-aragvelii.vercel.app/" style="margin-bottom: 20px;">
       <img src="/aragveli.png" alt="aragveli logo" width="270px" height="160px" />
     </a>
     <a href="https://threads-kappa-three.vercel.app/">
