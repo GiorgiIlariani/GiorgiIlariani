@@ -54,13 +54,13 @@
 📂 Project Showcase
   
   <div style="display: flex;">
-    <a href="https://pricewise-alpha-eight.vercel.app/">
+    <a href="https://mymarket-delta.vercel.app/">
       <img src="/mymarket.png" alt="mymarket" width="250px" height="155px" />
     </a>
     <a href="https://300-aragvelii.vercel.app/">
       <img src="/aragveli.png" alt="aragveli logo" width="250px" height="155px" />
     </a>
-         <a href="https://blogs-five-sigma.vercel.app/">
+    <a href="https://evently-eight-pi.vercel.app/">
       <img src="/evently.png" alt="evently" width="250px" height="155px" />
     </a>
     <br></br>
