@@ -54,6 +54,15 @@
 📂 Project Showcase
   
   <div style="display: flex;">
+     <a href="https://real-estate-manager-one.vercel.app/">
+      <img src="/yc-directory.png" alt="yc-directory" width="250px" height="155px" />
+    </a>
+    <a href="https://real-estate-manager-one.vercel.app/">
+      <img src="/real-estate-manager.png" alt="real estate" width="250px" height="155px" />
+    </a>
+     <a href="https://hatch-three.vercel.app/">
+      <img src="/hatch.png" alt="hatch" width="250px" height="155px" />
+    </a>
     <a href="https://mymarket-delta.vercel.app/">
       <img src="/mymarket.png" alt="mymarket" width="250px" height="155px" />
     </a>
